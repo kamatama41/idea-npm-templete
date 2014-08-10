@@ -1,2 +1,2 @@
-idea-npm-templete
+npm-templete
 =================
